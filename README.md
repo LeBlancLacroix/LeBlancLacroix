@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**LeBlancLacroix/LeBlancLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Louis**, a student and developer from Brazil interested in **backend development and cybersecurity**.
 
-Here are some ideas to get you started:
+* 🔭 Currently working on **ShieldPME**, a cybersecurity platform for my TCC
+* 🌱 Currently learning **Java, Spring Boot, SQL Server, and cybersecurity**
+* 🐧 Linux enthusiast, currently using **Arch Linux**
+* 🛡️ Interested in **application security, APIs, and software engineering**
+* 🎓 Currently studying and building projects to improve my backend and cybersecurity skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I'm working with
+
+`Java` `Spring Boot` `SQL` `SQL Server` `Docker` `Linux` `Git`
